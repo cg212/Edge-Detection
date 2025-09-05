@@ -201,8 +201,3 @@ image_files = {
 - Processing time varies with image size and complexity
 - Close visualization windows to proceed to next results
 - Metrics are printed to console after all visualizations are closed
-
-## Author
-
-Caleb George (2321112)  
-Computer Vision and Imaging Final Assignment
